@@ -31,7 +31,7 @@ want to install all additional dependencies you can always use bare
 
 Package is distributed in form of *built wheels* so it does not require
 compilation on most operating systems. For more details about compatibility
-with diffferent OSes and Python versions see the *Project ditribution*
+with different OSes and Python versions see the *Project distribution*
 section of this documentation page.
 
 
@@ -47,7 +47,7 @@ ImGui library. The *completion badge* shows up-to-date status of that goal.
 # Project distribution
 
 This project has a working build pipeline on Appveyor and Travis. It builds
-succesfully for all major operating systems with different architectures:
+successfully for all major operating systems with different architectures:
 
 * Windows (32bit & 64bit)
 * Linux (32bit & 64bit)
@@ -88,7 +88,7 @@ commands:
 We have tried hard to make the process of bootstrapping this project as simple
 as possible.
 
-In order to build and install project locally ,ake sure you have created and
+In order to build and install project locally ,make sure you have created and
 activated virtual environment using `virtualenv` or `python -m venv` (for newer
 Python releases). Then you can just run:
 
@@ -109,3 +109,4 @@ You can run tests with:
 
 If you have any problems with building or installing the project just ask us
 for help by creating GitHub issue.
+
